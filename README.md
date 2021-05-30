@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I building pet projects and Blog Writing as side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at rushikesh.mhetre.work@gmail.com! I'll try to respond as soon as I can.\
-📚 &nbsp; Checkout my ![Blogs](https://rushikesh-blogs.medium.com/)&nbsp; 
+📚 &nbsp; Checkout my https://rushikesh-blogs.medium.com
 
 
 ### 🛠 &nbsp;Tech Stack
