@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-💻 &nbsp;I'm currently working as a Senior Developer at CloudCover Inc..\
+💻 &nbsp;I'm currently working as a Lead Developer at CloudCover Inc..\
 🌱 &nbsp;I'm on track for frontend architecture, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I building pet projects and Blog Writing as side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
